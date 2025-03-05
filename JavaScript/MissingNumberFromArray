@@ -1,0 +1,22 @@
+function findMissingNumbers(arr) {
+    // Find the minimum and maximum values in the array
+    const min = Math.min(...arr);
+    const max = Math.max(...arr);
+
+    // Create an array to store missing numbers
+    let missingNumbers = [];
+
+    // Loop through the range from min to max
+    for (let i = min; i <= max; i++) {
+        // If the number is not in the array, it's missing
+        if (!arr.includes(i)) {
+            missingNumbers.push(i);
+        }
+    }
+
+    // Print the missing numbers
+    console.log("Missing numbers:", missingNumbers);
+}
+
+const arr = [1, 4, 6, 7, 10];
+findMissingNumbers(arr);
