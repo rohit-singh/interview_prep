@@ -1,4 +1,8 @@
 //Replace first occurrence of letter o with single $, second occurence with 2 $ and so on.
+
+// Input - Tomorrow
+// Output - T$m$$rr$$$w
+
 public class TransformString {
 
     public static void main(String[] args) {
