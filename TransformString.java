@@ -1,4 +1,4 @@
-//Replace first occurrence of letter o with single $, second occurence with 2 $ and so on.
+//Replace first occurrence of letter o with single $, second occurence with two $ and so on.
 
 // Input - Tomorrow
 // Output - T$m$$rr$$$w
