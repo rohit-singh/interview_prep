@@ -1,3 +1,5 @@
+package Java;
+
 //Print prime number till 20
 public class PrimeNumbers {
 

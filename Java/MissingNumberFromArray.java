@@ -1,3 +1,5 @@
+package Java;
+
 public class MissingNumberFromArray {
 
     public static void main(String[] args) {
