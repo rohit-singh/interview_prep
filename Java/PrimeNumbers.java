@@ -13,7 +13,6 @@ public class PrimeNumbers {
                     isPrime =false;
                     break;
                 }
-
             }
             if(isPrime){
                 System.out.println(i);
