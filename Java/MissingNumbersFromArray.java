@@ -1,6 +1,6 @@
 package Java;
 
-public class MissingNumberFromArray {
+public class MissingNumbersFromArray {
 
     public static void main(String[] args) {
         int[] num = {1,2,5,10};
