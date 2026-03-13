@@ -1,5 +1,5 @@
 package Java;//Replace first occurrence of letter o with single $, second occurence with two $ and so on.
-
+//Persistent Intervview
 // Input - Tomorrow
 // Output - T$m$$rr$$$w
 
