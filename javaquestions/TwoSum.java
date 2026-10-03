@@ -1,4 +1,4 @@
-//public class TwoSum {
+package javaquestions;//public class TwoSum {
 //    public static void main(String[] args) {
 //        int numbers[] = {2,7,11,15};
 //

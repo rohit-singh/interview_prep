@@ -1,4 +1,4 @@
-package Java;
+package javaquestions;
 
 //Print prime number till 20
 public class PrimeNumbers {
