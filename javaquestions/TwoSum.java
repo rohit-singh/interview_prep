@@ -70,7 +70,6 @@ public class TwoSum {
         int leftPtr = 0;
         int rightPtr = numbers.length-1;
 
-
         while(leftPtr<rightPtr){
             int sum = numbers[leftPtr]+ numbers[rightPtr];
             if(sum == target){
@@ -83,10 +82,7 @@ public class TwoSum {
             }else{
                 leftPtr++;
             }
-
         }
-
             System.out.println("Target sum not found");
-
     }
 }
